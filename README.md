@@ -17,5 +17,5 @@ Azure Cosmos DB is a global database where we can scale up in all of the world. 
 
 # Additional information
 
-This project is based on MVC technology it's a web application, the main core is inside the controller code. The main article is here: https://wp.me/p4REoZ-R8
+This project is based on MVC technology it's a web application, the main core is inside the controller code. The complete article is here: https://wp.me/p4REoZ-R8
 
